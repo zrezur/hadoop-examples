@@ -1,0 +1,11 @@
+{
+    "namespace":"org.dp.avro",
+    "type":"record",
+    "name":"MyKey",
+    "fields":[
+        {
+            "name":"key",
+            "type":"string"
+        }
+    ]
+}

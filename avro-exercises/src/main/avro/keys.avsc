@@ -1,0 +1,11 @@
+{
+    "namespace":"org.dp.avro",
+    "type":"record",
+    "name":"Keys",
+    "fields":[
+        {
+            "name":"values",
+            "type":{"type": "array", "items": "string"}
+        }
+    ]
+}
